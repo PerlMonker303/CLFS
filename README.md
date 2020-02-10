@@ -8,7 +8,7 @@
 <br><br>
 <b>Who would be interested in such a tool?</b><br>
   Anyone who does not want to waste time simplifying formulas, especially students who have to "deal" with Computation Logic in college.
-<br>
+<br><br>
 <b>What can it do so far?</b><br>
 <ul>
   <li>solve implications such as p→q or (p→q)→(r→t)</li>
