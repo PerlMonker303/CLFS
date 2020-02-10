@@ -8,15 +8,15 @@
 <br><br>
 <b>Who would be interested in such a tool?</b><br>
   Anyone who does not want to waste time simplifying formulas, especially students who have to "deal" with Computation Logic in college.
-<br><br>
+<br>
 <b>What can it do so far?</b><br>
 <ul>
   <li>solve implications such as p→q or (p→q)→(r→t)</li>
   <li>detect Conjunctive/Disjunctive Normal Forms, identifying their clauses/cubes</li>
   <li>solve double negations using De Morgan's laws</li>
 </ul>
-<br><br>
-<b>What is next?</b><br><br>
+<br>
+<b>What is next?</b><br>
 <ul>
   <li>prove inconsistency of a formula using the Semantic Tableaux Method - graphical approach</li>
   <li>bring formulas to their simplest forms using boolean algebra graphical simplifications methods: Veitch and Karnaugh Diagrams</li>
