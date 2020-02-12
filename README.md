@@ -1,6 +1,6 @@
 # CLFS
 <h2>Computational Logic Formula Solver</h2> 
-<h3>Programmatically simplifies propositional/predicate logic formulas and proves inconsistency</h3>
+<h3>Programmatically simplifies propositional/predicate logic formulas and proves their inconsistency</h3>
 
 <br>
 <b>Why is this useful?</b><br>
