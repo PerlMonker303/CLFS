@@ -12,7 +12,7 @@
 <b>What can it do so far?</b><br>
 <ul>
   <li>solve implications such as p→q or (p→q)→(r→t)</li>
-  <li>detect Conjunctive/Disjunctive Normal Forms, identifying their clauses/cubes</li>
+  <li>detect Conjunctive/Disjunctive Normal Forms, identifying their clauses/cubes, number of variables, unary and binary operations</li>
   <li>solve double negations using De Morgan's laws</li>
 </ul>
 <br>
