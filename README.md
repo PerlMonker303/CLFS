@@ -21,3 +21,9 @@
   <li>prove inconsistency of a formula using the Semantic Tableaux Method - graphical approach</li>
   <li>bring formulas to their simplest forms using boolean algebra graphical simplifications methods: Veitch and Karnaugh Diagrams</li>
 </ul>
+
+<h2>Screenshots</h2>
+
+![Test Image 1](pic1.png)
+
+![Test Image 1](pic2.png)
